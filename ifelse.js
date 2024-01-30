@@ -1,0 +1,11 @@
+x=20;
+y='20';
+console.log(typeof(x));
+console.log(typeof(y));
+console.log(x+y);
+if(x===y){
+    console.log('True');
+}
+else{
+    console.log("false");
+}
